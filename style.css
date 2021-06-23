@@ -1,0 +1,17 @@
+
+
+.be{
+       border: 5px solid aquamarine; 
+       border-radius: 20px;
+       width:400px;
+       margin:1%;
+       display: inline-block;
+       text-align: center;
+
+}
+p{
+text-align:center;
+text-justify: 10px;
+
+}
+
