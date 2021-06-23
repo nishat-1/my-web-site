@@ -1,17 +1,13 @@
-
-
-.be{
-       border: 5px solid aquamarine; 
-       border-radius: 20px;
-       width:400px;
-       margin:1%;
-       display: inline-block;
-       text-align: center;
+h1{
+    font-family: 'Roboto Slab', serif;
+    color:#2f3640;
 
 }
-p{
-text-align:center;
-text-justify: 10px;
-
+h3{
+    font-family: 'Roboto Slab', serif;
+    color: #2f3640;
+}
+#highlight{
+    color: #00a8ff;
 }
 
