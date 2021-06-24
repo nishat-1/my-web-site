@@ -3,6 +3,9 @@ h1{
     color:#2f3640;
 
 }
+body{
+    margin: 0%;
+}
 h3{
     font-family: 'Roboto Slab', serif;
     color: #2f3640;
@@ -18,3 +21,9 @@ p{
     font-family: 'Lato', sans-serif;
     color: #57606f;
 }
+.half-width{ width: 40%; float: left; padding-left: 2%; margin-left: 5%;}
+.half-width img{
+    width: 100%;
+}
+.top-banner{ background-image: url("img/top-banner.png");background-repeat: no-repeat;}
+section{height: 500px;}
